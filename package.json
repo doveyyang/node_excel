@@ -1,0 +1,22 @@
+{
+  "name": "node_excel",
+  "version": "1.0.0",
+  "description": "Node for Excel",
+  "main": "node-xlsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doveyyang/node_excel.git"
+  },
+  "keywords": [
+    "node-xlsx"
+  ],
+  "author": "Dovey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doveyyang/node_excel/issues"
+  },
+  "homepage": "https://github.com/doveyyang/node_excel#readme"
+}
